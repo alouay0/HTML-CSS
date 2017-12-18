@@ -1,0 +1,78 @@
+<html lang="en">
+  <!-- here starts the html file  --> 
+<head>
+  <meta charset="utf-8">
+  <title>TRAVLING TO GREECE</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+</head>
+
+<body> 
+  <h1> TRAVLING TO GREECE </h1> 
+  <h2 class="welcome-to-greece"> welcome to greece </h2> 
+  <p> Ancient sun-bleached ruins pierce blue skies as the Aegean laps at the endless coastline. And Greek culture is alive with passionate music, inspired cuisine and thrill-seeking activities.
+
+  </p> 
+  <h2> Basic info : </h2> 
+  <p id="basic-info"> Capital : <strong> Athens </strong>  <br> 
+    Population : 10,815,197  <br> 
+Conventional Name : Hellenic Republic <br> 
+Chief of State : President Prokopis Pavlopoulos <br> 
+Head of State : Prime Minister Alexis Tsipras <br> 
+National Anthem: Ymnos eis tin Eleftherian (Hymn to Liberty) <br> 
+Lyrics/Music : Dionysios Solomos/Nikolaos Mantzaros <br> 
+    
+    
+  <h2> The best tourist places </h2> 
+  <p> <strong> <ol> <li> Cape Sounion </li> </strong> <br> 
+    <p class="best-places"> Situated at the southernmost tip of the Attica peninsula, <em>Cape Sounion</em> is best known as the site of the ruins of the ancient Greek temple of Poseidon, the god of the sea. <br> 
+      <br> <img id="1image" src="https://media1.picsearch.com/is?ODeEYT2KPgx4SFVTLAldtSaJxZXvd1UMRdlgTmMHOH8&height=256" width="300px"> </p>
+    
+    <li> <strong> Thessaloniki </li> </strong> <br>
+        
+        <p class="best-places"> Thessaloniki is Greece’s <strong> second-largest city and the capital city of the Macedonian</strong>  region of Northern Greece. Lively festivals, social events and a buzzing nightlife make this city the cultural capital of Greece.<br>  
+         <br> <img id="2image" src="https://media1.picsearch.com/is?Fc6I6e1dc4JrmGidrwZYuI4QNoJzjZIKVnlmpx37K2s&height=226" width="300px">  </p> 
+  <li> <strong> Halkidiki </li> </strong> <br> 
+            <p class="best-places"> Halkidiki is a trident-like peninsula near the city of Thessaloniki, sporting excellent beaches. The three separate peninsulas can be roughly summarized as follows: Kassandra has the nightlife, Sithonia has the beaches and Athos has the monks. Being closest to Thessaloniki, Kassandra is more built-up, while the more quiet Sithonia has campgrounds, hidden coves and clear waters. Both are popular with Greek and Eastern European tourists. <br> 
+              <br> 
+              <img id="3image" src="https://media5.picsearch.com/is?MbbRiPqqz-02asFH1rfEpoggzD11e-5-DkQnWj5Tt2Q&height=202" width="300"> </p>
+       </ol>  
+<a id="find-more" target="_blank" href="http://www.learn2learn.edu.gr/"> Find more places to visit </a> 
+<h2>  Booking a trip to Islands By <a href="https://tickets.ferries.gr/index.php?aff=ferries&lang=en"> Ferries </a> </h2> 
+<div id="table"> <table>
+  <col width="130">  
+  <col width="130"> 
+  <thead> 
+  <tr> <strong>  
+    <th> Location </th> 
+    <th> Company </th>
+    <th> price </th> </strong>
+    </tr> 
+    </thead> 
+  
+    <tbody> 
+      <tr> 
+        <td> <strong> <a href="https://en.wikipedia.org/wiki/Santorini"> Santorini</a>  </strong> </td> 
+        <td>  Blue Star Ferries </td> 
+        <td> 40.00 € </td> 
+      </tr> 
+      <tr> 
+        <td> <strong> <a href="https://en.wikipedia.org/wiki/Chania"> Chania (Crete) </strong> </a> </td> 
+        <td> K/X ANEK-SUPERFAST </td> 
+        <td>  38.00 € </td> 
+      </tr> 
+      <tr> 
+        <td> <a href="https://en.wikipedia.org/wiki/Mytilene"> <strong> Lesvos (Mitilini) </a> </strong> </td> 
+        <td>  Blue Star Ferries </td>
+        <td>  46.00 € </td> 
+  </tbody>
+        
+  </table> </div> <br> 
+<br> 
+<a id="trips" href="https://tickets.ferries.gr/index.php?aff=ferries&lang=EN"> For Other Trips  </a>
+    
+  
+    
+</body>
+  <!-- here ends the html file --> 
+</html>
