@@ -1,0 +1,88 @@
+body,h1,h2,h3,h4,h5,h6,div {
+  font-family: "Karma", sans-serif ;
+  background-color: #e6e6e6 ;
+}
+* {
+box-sizing: border-box; }
+
+
+.top-menu {
+  width: 100%;
+height: 300px;
+border: 10px solid #e6e6e6  ;
+padding: 5px ;
+background-image: url(Img/wellcome.jpg);
+background-repeat: no-repeat;
+background-position: center top ;
+background-size: contain;
+display: block;
+border-right: 20px ;
+margin-right: 15px;
+flex-flow: row  ;
+ }
+
+ #top_bar{
+   display: flex;
+   flex-flow: row wrap ;
+
+ }
+ .div2 {
+font-family: Helvetica, Arial, sans-serif;
+font-size; 10px ;
+color: black ;
+text-align: center ;
+border: 5px  solid #99b3ff ;
+margin: 8px ;
+float:  left ;
+ }
+ .div2:hover {
+color: #66b3ff ;
+background-color: transparent;
+text-decoration: underline;
+font-style: solid;
+   }
+#span1 {
+clear: both; }
+
+h2 {
+  background: linear-gradient(to left , rgba(32,90,143,1) 0%,rgba(129,179,230,0) 100%);
+      padding: 5px 10px;
+      color: #fff;
+    text-align: center;}
+
+h3 {
+background: linear-gradient(to right , rgba(122,211,149,1) 0%,rgba(129,179,230,0) 100%);
+padding: 5px 10px;
+color: #fff;
+text-align: center;
+margin:0; padding:0;
+}
+
+.food{
+  display:flex;
+}
+.first-grid {
+border: 1px solid #999;
+padding: 0 10px 10px 10px ;
+box-shadow: 0 0 20px rgba(0,0,0,0.3);
+overflow: hidden;
+max-width: 25%;
+}
+
+.first-grid > img {
+    display: block;
+    width: 20%;
+    background: #fff;
+    margin-top: 1rem;
+    transition: all 0.3s;
+    position: relative;
+    z-index: 1;
+}
+
+
+.first-grid > p {
+    font-size: 16px  ;
+    margin: 12px 0 0;
+    position: relative;
+    z-index: 2;
+}
